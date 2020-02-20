@@ -1,6 +1,6 @@
  
  #map {
-    height: 80%;
+    height: 60%;
   }
   .name{
     font-size: large;
@@ -23,4 +23,8 @@
   .services1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
+  }
+  #button {
+    text-align: center;
+    align-items: center;
   }
